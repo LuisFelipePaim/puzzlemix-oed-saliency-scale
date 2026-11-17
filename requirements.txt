@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pillow
+POT          # transporte otimo (Puzzle Mix simplificado, Secao 3)
+PyMaxflow    # corte minimo (Puzzle Mix simplificado, Secao 3)
+# gco-wrapper  # so para os bracos puzzlemix_* (Puzzle Mix oficial); compila facil em Linux/WSL
